@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8px" height="4px" viewBox="0 0 8 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_arrow_down</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="0-Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.0.0_Assets" transform="translate(-692.000000, -575.000000)" fill="#6e7272">
+            <g id="sign-in-and-join" transform="translate(651.000000, 174.000000)">
+                <g id="birthday" transform="translate(1.000000, 385.000000)">
+                    <g id="icon_arrow_down" transform="translate(40.000000, 16.000000)">
+                        <path d="M1.04881387,0 C-0.0591428081,0 -0.288833671,0.587929816 0.54331199,1.31979798 L3.24658284,3.69731188 C3.66235344,4.06298016 4.34009764,4.05977276 4.75222139,3.69731188 L7.45549224,1.31979798 C8.28426793,0.590893683 8.05888699,0 6.94999036,0 L1.04881387,0 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
